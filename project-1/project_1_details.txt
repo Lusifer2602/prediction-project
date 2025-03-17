@@ -53,3 +53,8 @@ A detailed report of your predictive modeling process and findings.
 The code or software used for the model (in Python, R, or similar).
 A presentation summarizing key insights and implications for business strategy.
 Include your name in all file names for easy identification. This project offers a great opportunity to showcase your analytical skills in a practical business context, providing valuable insights for customer retention strategies.
+
+
+Step 1 :
+We will begin with collecting data from Kaggle.
+The name of the source file is WA_Fm-UseC_-Telco-Customer-Churn.csv
