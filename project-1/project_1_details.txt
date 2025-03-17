@@ -58,3 +58,4 @@ Include your name in all file names for easy identification. This project offers
 Step 1 :
 We will begin with collecting data from Kaggle.
 The name of the source file is WA_Fm-UseC_-Telco-Customer-Churn.csv
+Then we install the required libraries to start buildign our model
