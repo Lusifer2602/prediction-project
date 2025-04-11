@@ -61,15 +61,12 @@ The following resources provide foundational knowledge and advanced techniques i
 The dataset used for this project is `WA_Fn-UseC_-Telco-Customer-Churn.csv`, which contains customer demographics, account information, and churn labels.
 
 ## How to Run the Project
-1. **Install Required Libraries**:
-   Install the necessary Python libraries using:
-   ```bash
-   pip install -r requirements.txt
+1. **Install Required Libraries**
+   Install the necessary Python libraries mentioned in beginning of the ipynb file.
 
 
 Collecting workspace informationHere is the updated README.md file based on the instructions and details provided in project_1_details.txt:
 
-```markdown
 # Customer Churn Prediction
 
 ## Subject
@@ -150,6 +147,3 @@ The dataset used for this project is `WA_Fn-UseC_-Telco-Customer-Churn.csv`, whi
 - The project demonstrates the use of machine learning techniques like Random Forest and SMOTE for handling class imbalance.
 
 This project offers a great opportunity to showcase analytical skills in a practical business context, providing valuable insights for customer retention strategies.
-
-
-This README.md file aligns with the instructions and details provided in project_1_details.txt. Let me know if further adjustments are needed!
