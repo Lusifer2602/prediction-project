@@ -1,8 +1,8 @@
-PROJECT 2
+# PROJECT 2
 
-Subject: Financial Forecasting with Time Series Analysis Project
+## Subject: Financial Forecasting with Time Series Analysis Project
 
-Problem Description:
+## Problem Description:
 Your task is to conduct a time series analysis for financial forecasting. This involves selecting a financial metric (such as stock prices, exchange rates, sales revenue, etc.) and using historical data to forecast future values. The goal is to provide accurate and insightful forecasts that can aid in financial planning and strategy.
 
 
