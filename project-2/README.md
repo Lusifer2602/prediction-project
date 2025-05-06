@@ -8,16 +8,16 @@ This project demonstrates the use of time series analysis techniques for financi
 1. In your terminal copy and paste this command to download all the required dependencies altogether
 
 ```bash
-pip install pandas numpy matplotlib seaborn xgboost scikit-learn
+pip install pandas numpy matplotlib seaborn xgboost scikit-learn statsmodels
 ```
 2. Open the Jupyter notebook
 3. Choose your working environment
 4. Run all cells using 'Run All' button (press it 2 times atleast to ensure data is filtered correctly as per the notebook's instructions.)
 
-### Reference Material:
-####  https://www.mlq.ai/python-for-finance-time-series-analysis/
-####  https://christianmartinezfinancialfox.medium.comlearning-python-for-finance-how-to-get-started-with-advanced-financial-forecasting-in-python-43553dac9d69
-####  https://www.kaggle.com/code/prashant111/complete-guide-on-time-series-analysis-in-python
+## Reference Material:
+###  https://www.mlq.ai/python-for-finance-time-series-analysis/
+###  https://christianmartinezfinancialfox.medium.comlearning-python-for-finance-how-to-get-started-with-advanced-financial-forecasting-in-python-43553dac9d69
+###  https://www.kaggle.com/code/prashant111/complete-guide-on-time-series-analysis-in-python
 
 ## Features
 
