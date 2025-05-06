@@ -82,4 +82,4 @@ This project focuses on analyzing and forecasting champagne sales data using tim
 4. Develop ensemble approaches
 
 ## 9. Conclusion
-The SARIMA model effectively captured both trend and seasonal patterns in champagne sales data, providing reliable forecasts for future periods. The model's ability to account for seasonality made it particularly suitable for this business case.
+The SARIMA model effectively captured both trend and seasonal patterns in champagne sales data, providing reliable forecasts for future periods. The model's ability to account for seasonality made it particularly suitable for this business case.    
